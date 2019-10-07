@@ -3,6 +3,7 @@ Crea un repositori
 
 ## Activitats
 * [1_llocweb](https://arquesm.github.io/2GP/)
+* [2_CMYK]()
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
